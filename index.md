@@ -18,15 +18,16 @@ My Profile: <a target="_blank" href="https://www.linkedin.com/in/sunil-marella/"
         <li><b>Splunk :</b> Core, Certified Power User | Splunk – Enterprise, Certified Admin | Splunk – Certified, Splunk Enterprise Security | Splunk ITSI | Splunk Cloud</li>
         <li><b>Splunk o11y:</b> Splunk SignalFx | Infrastructure Monitoring | SignalFX IM Terraform | SignalFx REST API | Kubernetes Monitoring with Splunk</li>
         <li><b>Appdynamics:</b> Application Performance Management (APM) | Server Visibility | Network Visibility | User Experience Monitoring | Synthetics Monitoring | Database Monitoring | Analytics </li>
+        <li><b>AIOps: </b>Moogsoft | Splunk Machine Learning</li>
         <li><b>Data Ingestion</b> Open Telemetry</li>
     </ul>
 <h4><b>Cloud & Devops</b></h4>
     <ul>
         <li><b>Cloud:</b> AWS Certified Solution Architecture | Microsoft Certified Azure Fundamentals </li>
-        <li><b>Devops: </b>Terraform Associate Certified | Ansible | Docker | Kubernetes | Git | Azure Devops | Gitlab CI/CD</li>
+        <li><b>Devops: </b>Terraform Associate Certified | Ansible | Docker | Kubernetes | Git | Azure Devops | Gitlab CI/CD | JIRA | Artifactory | Python Boto3</li>
         <li><b>Operating Systems:</b> Linux & Windows</li>
     </ul>
-<h4><b>Solution Architecture</b></h4>
+<h4><b>Enterprise Architecture</b></h4>
     <ul>
         <li>TOGAF 9.2</li>
     </ul>
