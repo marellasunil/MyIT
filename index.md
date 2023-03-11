@@ -11,7 +11,7 @@
 <h1>Sunil Marella</h1>
 <hr>
 My Profile: <a target="_blank" href="https://www.linkedin.com/in/sunil-marella/">Linkdin</a>
-<h3><u>Technical Proficiencies:</u></h3>
+<h3><u>Technical Proficiencies</u></h3>
 <h4><b>Observability</b></h4>
     <ul>
         <li><b>Full Stack Observability:</b> AppDynamics | Dynatrace | Datadog | Splunk</li>
