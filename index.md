@@ -1,123 +1,48 @@
----
-layout: default
----
+<html>
+    <head>
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+            body {font-family: verdana; font-size: 14px;}
+        </style>
+    </head>
+<body>
+<h1>Sunil Marella</h1>
+<hr>
+My Profile: <a href="https://www.linkedin.com/in/sunil-marella/">Linkdin</a>
+<h3><u>Technical Proficiencies:</u></h3>
+<h4><b>Observability</b></h4>
+    <ul>
+        <li><b>Full Stack Observability:</b> AppDynamics, Dynatrace, Datadog, Splunk</li>
+        <li><b>Splunk :</b> Core, Certified Power User | Splunk – Enterprise, Certified Admin| Splunk – Certified, Splunk Enterprise Security Certified Admin, Splunk ITSI, Splunk Cloud</li>
+        <li><b>Splunk o11y:</b> Splunk SignalFx | Infrastructure Monitoring | SignalFX IM Terraform | SignalFx REST API | Kubernetes Monitoring with Splunk</li>
+        <li><b>Appdynamics:</b> Application Performance Management (APM) | Server Visibility | Network Visibility | User Experience Monitoring | Synthetics Monitoring | Database Monitoring | Analytics </li>
+    </ul>
+<h4><b>Cloud & Devops</b></h4>
+    <ul>
+        <li><b>Cloud:</b> AWS Certified Solution Architecture | Microsoft Certified Azure Fundamentals </li>
+        <li><b>Devops: </b>Terraform Associate Certified, Ansible, Docker, Kubernetes, Git, Azure Devops, Jenkins</li>
+        <li><b>Operating Systems:</b> Linux & Windows</li>
+    </ul>
+<h4><b>Solution Architecture</b></h4>
+    <ul>
+        <li>TOGAF 9.2</li>
+    </ul>
+<h4><b>Project Management</b></h4>
+    <ul>
+        <li><b>Agile: </b> Professional Scrum Master (PSM I & PSM II) </li>
+        <li><b>Project Management</b> PRINCE2 Agile Foundation CPD </li>
+        <li><b>Data Ingestion</b> Open Telemetry</li>
+    </ul>
+<hr>
+<h3><u>My Source Code</u></h3>
+<b>Devops: </b><a href="https://github.com/marellasunil/MyAutomation/tree/master/MyNotes">Source Code</a><br>
+<b>Observability & OTel: </b><a href="https://github.com/marellasunil/MyObservability/tree/master/MyNotes">Source Code</a><br>
+<b>Site Reliability Engineer: </b><a href="https://github.com/marellasunil/MySRE/tree/master/MyNotes">Source Code</a><br>
+<b>Enterprise Architecture: </b><a href="https://github.com/marellasunil/MyArchitecture/tree/master/MyNotes">Source Code</a><br>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<hr>
+Note: Site is still under construction. 
+</body>
+</html>
