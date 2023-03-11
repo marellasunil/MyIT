@@ -17,7 +17,7 @@ My Profile: <a target="_blank" href="https://www.linkedin.com/in/sunil-marella/"
         <li><b>Full Stack Observability:</b> AppDynamics | Dynatrace | Datadog | Splunk</li>
         <li><b>Splunk :</b> Core, Certified Power User | Splunk – Enterprise, Certified Admin | Splunk – Certified, Splunk Enterprise Security | Splunk ITSI | Splunk Cloud</li>
         <li><b>Splunk o11y:</b> Splunk SignalFx | Infrastructure Monitoring | SignalFX IM Terraform | SignalFx REST API | Kubernetes Monitoring with Splunk</li>
-        <li><b>Appdynamics:</b> Application Performance Management (APM) | Server Visibility | Network Visibility | User Experience Monitoring | Synthetics Monitoring | Database Monitoring | Analytics </li>
+        <li><b>Appdynamics:</b> Application Performance Management (APM) | Server Visibility | Network Visibility | User Experience Monitoring | Synthetics Monitoring | Database Monitoring | Business Analytics </li>
         <li><b>AIOps: </b>Moogsoft | Splunk Machine Learning</li>
         <li><b>Data Ingestion</b> Open Telemetry</li>
     </ul>
