@@ -4,7 +4,7 @@
             h1 {text-align: center;}
             p {text-align: center;}
             div {text-align: center;}
-            body {font-family: verdana; font-size: 14px;}
+            body {font-family: verdana; font-size: 14px;text-align: right;}
         </style>
     </head>
 <body>
