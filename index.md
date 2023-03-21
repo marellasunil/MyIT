@@ -38,10 +38,10 @@ My Profile: <a target="_blank" href="https://www.linkedin.com/in/sunil-marella/"
     </ul>
 <hr>
 <h3><u>My Source Code</u></h3>
-<b>Devops: </b><a target="_blank" href="https://github.com/marellasunil/MyAutomation/tree/master/MyNotes">Source Code</a><br>
-<b>Observability & OTel: </b><a target="_blank" href="https://github.com/marellasunil/MyObservability/tree/master/MyNotes">Source Code</a><br>
-<b>Site Reliability Engineer: </b><a target="_blank" href="https://github.com/marellasunil/MySRE/tree/master/MyNotes">Source Code</a><br>
-<b>Enterprise Architecture: </b><a target="_blank" href="https://github.com/marellasunil/MyArchitecture/tree/master/MyNotes">Source Code</a><br>
+<b>Devops: </b><a target="_blank" href="https://github.com/marellasunil/MyAutomation">Source Code</a><br>
+<b>Observability & OTel: </b><a target="_blank" href="https://github.com/marellasunil/MyObservability">Source Code</a><br>
+<b>Site Reliability Engineer: </b><a target="_blank" href="https://github.com/marellasunil/MySRE">Source Code</a><br>
+<b>Enterprise Architecture: </b><a target="_blank" href="https://github.com/marellasunil/MyArchitecture">Source Code</a><br>
 
 <hr>
 Note: Site is still under construction. 
